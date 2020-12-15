@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Link to my website: https://antonilason.github.io/
+
 Short note about Przelicznik_Wartosci_-Logicznych: https://antonilason.github.io/logicTableDescription
 
 Fork link: https://github.com/AntoniLason/MODNet
